@@ -2,8 +2,6 @@
 const axios = require('axios');
 const { expect } = require('chai');
 
-// Base URL for reqres.in API
-//const baseURL = 'https://reqres.in/api';
 
 describe('Reqres API Tests', () => {
   // Test case 1: Validate a successful GET request
